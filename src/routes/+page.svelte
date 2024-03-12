@@ -4,4 +4,6 @@
 </script>
 
 <ProfileSummary></ProfileSummary>
-<Timeline></Timeline>
+<div class="pb-8">
+	<Timeline></Timeline>
+</div>

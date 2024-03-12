@@ -12,7 +12,7 @@
 				<Avatar.Image src="https://github.com/shadcn.png" alt="@shadcn" height="73px" />
 				<Avatar.Fallback>CN</Avatar.Fallback>
 			</Avatar.Root>
-			<span class="pt-2 text-center text-2xl text-slate-700">Omkar Garde</span>
+			<span class="pt-2 text-center text-2xl font-bold text-slate-700">Omkar Garde</span>
 		</div>
 		<div class="w-3/5 text-balance pl-8 pt-4 text-sm">
 			<span class="">
