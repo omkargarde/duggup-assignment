@@ -14,7 +14,7 @@
 			</Avatar.Root>
 			<span class="pt-2 text-center text-2xl font-bold text-slate-700">Omkar Garde</span>
 		</div>
-		<div class="w-3/5 text-balance pl-8 pt-4 text-sm">
+		<div class="w-8/12 text-balance pl-8 pt-4 text-sm">
 			<span class="">
 				Co-Founder and CEO at Duggup - Social network for people in tech. Ex-Amazon Head of
 				Engineering. I write hot-takes on building a business, shipping delightful products and
@@ -26,7 +26,7 @@
 				<p class="pl-1">Follow</p>
 			</span>
 		</div>
-		<div class="pt-4">
+		<div class="justify-items-center pt-4">
 			<span class="mb-4 flex flex-col items-end">
 				{@html socialIcons}
 				<p class="pt-1 text-center font-extrabold">Duggup</p>

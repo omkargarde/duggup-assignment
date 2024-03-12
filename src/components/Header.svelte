@@ -8,7 +8,9 @@
 	import * as DropdownMenu from '$lib/components/ui/dropdown-menu';
 </script>
 
-<div class="mx-auto mt-4 flex w-10/12 justify-between border-b-2 border-dotted pb-2 align-middle">
+<div
+	class="mx-auto mt-2 flex w-10/12 justify-between border-b-2 border-dotted pb-2 pt-2 align-middle"
+>
 	<div class="flex items-center text-xl font-bold">
 		{@html LogoIcon}
 		<p class="pl-1">duggup</p>
